@@ -1,0 +1,5 @@
+C:\Users\Paras\Desktop\C++\pCalculator\Debug\pCalculator.vcxprojAssemblyReference.cache
+C:\Users\Paras\Desktop\C++\pCalculator\Debug\pCalculator.pCalculator.resources
+C:\Users\Paras\Desktop\C++\pCalculator\Debug\pCalculator.vcxproj.GenerateResource.cache
+C:\Users\Paras\Desktop\C++\pCalculator\Debug\pCalculator.exe
+C:\Users\Paras\Desktop\C++\pCalculator\Debug\pCalculator.pdb
